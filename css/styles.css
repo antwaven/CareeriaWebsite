@@ -10935,3 +10935,9 @@ footer.footer {
            display:none;
       }
   }
+
+  #step1, #step2, #step3, #step4 {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
