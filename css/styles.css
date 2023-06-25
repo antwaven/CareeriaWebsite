@@ -10929,3 +10929,9 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+@media screen and (max-device-width:560px) {
+  #hideme img{
+           display:none;
+      }
+  }
